@@ -1,0 +1,1402 @@
+[
+    {
+        "id": 399434058,
+        "nome": "Marta Jesus",
+        "medicamentos": [
+            "1. dicloralfenazona",
+            "2. ácido ectacrínico",
+            "3. carbamazepina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 149062464,
+        "nome": "Joana Correia",
+        "medicamentos": [
+            "1. barbitúricos",
+            "2. fenitoína",
+            "3. griseofulvina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 772345262,
+        "nome": "Tiago Gomes",
+        "medicamentos": [
+            "1. antibióticos (largo espectro)",
+            "2. ácido ectacrínico",
+            "3. cloranfenicol"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 864722434,
+        "nome": "Joana Carvalho",
+        "medicamentos": [
+            "1. anfetaminas",
+            "2. griseofulvina",
+            "3. isoniazida"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 333217767,
+        "nome": "Bruno Martins",
+        "medicamentos": [
+            "1. sulfimpirazona",
+            "2. isoniazida",
+            "3. antiácidos"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 853738950,
+        "nome": "Ana Fernandes",
+        "medicamentos": [
+            "1. ácido ectacrínico",
+            "2. tiroxina",
+            "3. carbamazepina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 808292670,
+        "nome": "Hugo Costa",
+        "medicamentos": [
+            "1. imaos",
+            "2. antibióticos (largo espectro)",
+            "3. corticosteróides"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 244842111,
+        "nome": "Rui Martins",
+        "medicamentos": [
+            "1. quinidina",
+            "2. naproxeno",
+            "3. fenitoína"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 260229462,
+        "nome": "Catarina Fernandes",
+        "medicamentos": [
+            "1. colestiramina",
+            "2. meprobamato",
+            "3. digoxina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 173562609,
+        "nome": "Hugo Gomes",
+        "medicamentos": [
+            "1. insulinas",
+            "2. griseofulvina",
+            "3. anfetaminas"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 795010817,
+        "nome": "Diana Costa",
+        "medicamentos": [
+            "1. cefaloridina (ceporan)",
+            "2. álcool (bebida)",
+            "3. metotrexato"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 320625085,
+        "nome": "Beatriz Ferreira",
+        "medicamentos": [
+            "1. imaos",
+            "2. sulfonamidas",
+            "3. glutetimida"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 161912470,
+        "nome": "Miguel Sousa",
+        "medicamentos": [
+            "1. quinidina",
+            "2. piridoxina",
+            "3. hidrato de cloral"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 269683392,
+        "nome": "Sofia Ferreira",
+        "medicamentos": [
+            "1. ácido ectacrínico",
+            "2. anticoagulantes orais",
+            "3. metotrexato"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 347953398,
+        "nome": "Rui Martins",
+        "medicamentos": [
+            "1. levodopa",
+            "2. metotrexato",
+            "3. ácido ectacrínico"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 552717577,
+        "nome": "João Correia",
+        "medicamentos": [
+            "1. simpaticomiméticos (a. indirecta)",
+            "2. tiroxina",
+            "3. digoxina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 586807182,
+        "nome": "Ana Almeida",
+        "medicamentos": [
+            "1. barbitúricos",
+            "2. corticosteróides",
+            "3. furosemida"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 377447453,
+        "nome": "Carlos Marques",
+        "medicamentos": [
+            "1. corticosteróides",
+            "2. antiácidos",
+            "3. simpaticomiméticos (a. directa)"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 346671517,
+        "nome": "Ana Ferreira",
+        "medicamentos": [
+            "1. metildopa",
+            "2. levodopa",
+            "3. procainamida"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 776617952,
+        "nome": "João Correia",
+        "medicamentos": [
+            "1. anticolinérgicos",
+            "2. rifampicina",
+            "3. corticosteróides"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 685050005,
+        "nome": "Inês Ferreira",
+        "medicamentos": [
+            "1. rifampicina",
+            "2. anti-histamínicos",
+            "3. haloperidol"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 547263031,
+        "nome": "João Sousa",
+        "medicamentos": [
+            "1. imaos",
+            "2. cefaloridina (ceporan)",
+            "3. ácido acetilsalicílico"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 927394199,
+        "nome": "Sofia Marques",
+        "medicamentos": [
+            "1. dicloralfenazona",
+            "2. fenotiazinas (clorpromazina)",
+            "3. barbitúricos"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 800529114,
+        "nome": "Catarina Ribeiro",
+        "medicamentos": [
+            "1. tiramina (alimentos, etc.)",
+            "2. haloperidol",
+            "3. contraceptivos orais"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 336712515,
+        "nome": "Hugo Gomes",
+        "medicamentos": [
+            "1. analgésicos narcóticos",
+            "2. fenotiazinas (clorpromazina)",
+            "3. piridoxina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 987041917,
+        "nome": "Ana Ribeiro",
+        "medicamentos": [
+            "1. metronidazol",
+            "2. fenitoína",
+            "3. isoniazida"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 299810163,
+        "nome": "Sofia Marques",
+        "medicamentos": [
+            "1. anti-histamínicos",
+            "2. procainamida",
+            "3. fenitoína"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 499157146,
+        "nome": "Sofia Jesus",
+        "medicamentos": [
+            "1. furosemida",
+            "2. isoniazida",
+            "3. ácido acetilsalicílico"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 115565640,
+        "nome": "Ana Santos",
+        "medicamentos": [
+            "1. levodopa",
+            "2. anticoagulantes orais",
+            "3. bloqueadores adrenérgicos beta"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 154814971,
+        "nome": "Bruno Martins",
+        "medicamentos": [
+            "1. procainamida",
+            "2. metildopa",
+            "3. analgésicos narcóticos"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 128436056,
+        "nome": "Hugo Fernandes",
+        "medicamentos": [
+            "1. digoxina",
+            "2. glutetimida",
+            "3. álcool (bebida)"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 226669745,
+        "nome": "Marta Pereira",
+        "medicamentos": [
+            "1. quinidina",
+            "2. metotrexato",
+            "3. fenotiazinas (clorpromazina)"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 123397303,
+        "nome": "Leonor Costa",
+        "medicamentos": [
+            "1. isoniazida",
+            "2. fenilbutazona",
+            "3. insulinas"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 890148003,
+        "nome": "Leonor Martins",
+        "medicamentos": [
+            "1. piridoxina",
+            "2. procainamida",
+            "3. metronidazol"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 721919763,
+        "nome": "Bruno Ribeiro",
+        "medicamentos": [
+            "1. furosemida",
+            "2. sulfonamidas",
+            "3. anfetaminas"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 409216000,
+        "nome": "Bruno Santos",
+        "medicamentos": [
+            "1. tetraciclinas",
+            "2. haloperidol",
+            "3. fenotiazinas (clorpromazina)"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 741814017,
+        "nome": "Beatriz Gomes",
+        "medicamentos": [
+            "1. bloqueantes neuromusculares",
+            "2. meprobamato",
+            "3. quinidina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 165559230,
+        "nome": "Pedro Almeida",
+        "medicamentos": [
+            "1. ácido ectacrínico",
+            "2. anfetaminas",
+            "3. tiroxina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 685951140,
+        "nome": "Miguel Costa",
+        "medicamentos": [
+            "1. sulfimpirazona",
+            "2. levodopa",
+            "3. naproxeno"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 796116728,
+        "nome": "Hugo Ferreira",
+        "medicamentos": [
+            "1. metildopa",
+            "2. fenfluramina",
+            "3. esteróides anabólicos"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 416439109,
+        "nome": "Rui Pinto",
+        "medicamentos": [
+            "1. meprobamato",
+            "2. naproxeno",
+            "3. corticosteróides"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 878690392,
+        "nome": "Catarina Costa",
+        "medicamentos": [
+            "1. anfetaminas",
+            "2. ácido ectacrínico",
+            "3. bloqueantes neuromusculares"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 512784162,
+        "nome": "Nuno Correia",
+        "medicamentos": [
+            "1. sulfonamidas",
+            "2. piridoxina",
+            "3. fenfluramina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 385222148,
+        "nome": "João Jesus",
+        "medicamentos": [
+            "1. fenotiazinas (clorpromazina)",
+            "2. simpaticomiméticos (a. directa)",
+            "3. simpaticomiméticos (a. indirecta)"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 244934539,
+        "nome": "Maria Rodrigues",
+        "medicamentos": [
+            "1. naproxeno",
+            "2. corticosteróides",
+            "3. antiácidos"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 666128954,
+        "nome": "Hugo Rodrigues",
+        "medicamentos": [
+            "1. contraceptivos orais",
+            "2. metronidazol",
+            "3. álcool (bebida)"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 971210375,
+        "nome": "Carlos Ribeiro",
+        "medicamentos": [
+            "1. tetraciclinas",
+            "2. esteróides anabólicos",
+            "3. antiácidos"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 741832402,
+        "nome": "Bruno Ribeiro",
+        "medicamentos": [
+            "1. cefaloridina (ceporan)",
+            "2. cloranfenicol",
+            "3. colestiramina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 371753778,
+        "nome": "Diana Carvalho",
+        "medicamentos": [
+            "1. sulfonamidas",
+            "2. digoxina",
+            "3. tiroxina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 842849350,
+        "nome": "Miguel Martins",
+        "medicamentos": [
+            "1. biguanidas (fenformina)",
+            "2. ácido ectacrínico",
+            "3. fenfluramina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 375170844,
+        "nome": "Bruno Teixeira",
+        "medicamentos": [
+            "1. álcool (bebida)",
+            "2. bloqueadores adrenérgicos beta",
+            "3. clonidina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 917680875,
+        "nome": "Ana Marques",
+        "medicamentos": [
+            "1. antibióticos (largo espectro)",
+            "2. isoniazida",
+            "3. glutetimida"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 167143633,
+        "nome": "Diana Moreira",
+        "medicamentos": [
+            "1. bloqueantes neuromusculares",
+            "2. tiramina (alimentos, etc.)",
+            "3. fenilbutazona"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 166771077,
+        "nome": "Marta Oliveira",
+        "medicamentos": [
+            "1. tiazidas",
+            "2. fenfluramina",
+            "3. analgésicos narcóticos"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 894255975,
+        "nome": "Ana Gomes",
+        "medicamentos": [
+            "1. anticolinérgicos",
+            "2. ácido ectacrínico",
+            "3. piridoxina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 277283094,
+        "nome": "Pedro Oliveira",
+        "medicamentos": [
+            "1. isoniazida",
+            "2. dicloralfenazona",
+            "3. procainamida"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 449677388,
+        "nome": "Nuno Correia",
+        "medicamentos": [
+            "1. tetraciclinas",
+            "2. esteróides anabólicos",
+            "3. álcool (bebida)"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 503009391,
+        "nome": "Miguel Oliveira",
+        "medicamentos": [
+            "1. bloqueantes neuromusculares",
+            "2. ácido ectacrínico",
+            "3. simpaticomiméticos (a. directa)"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 276982837,
+        "nome": "Nuno Fernandes",
+        "medicamentos": [
+            "1. carbamazepina",
+            "2. piridoxina",
+            "3. quinidina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 715530495,
+        "nome": "Joana Silva",
+        "medicamentos": [
+            "1. ácido mefenâmico",
+            "2. levodopa",
+            "3. anti-histamínicos"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 979843667,
+        "nome": "Joana Fernandes",
+        "medicamentos": [
+            "1. metronidazol",
+            "2. hidrato de cloral",
+            "3. anfetaminas"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 970888942,
+        "nome": "Pedro Martins",
+        "medicamentos": [
+            "1. digoxina",
+            "2. imaos",
+            "3. ácido ectacrínico"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 101279264,
+        "nome": "Pedro Ribeiro",
+        "medicamentos": [
+            "1. tetraciclinas",
+            "2. anti-histamínicos",
+            "3. anticolinérgicos"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 109010901,
+        "nome": "Bruno Santos",
+        "medicamentos": [
+            "1. levodopa",
+            "2. sulfonamidas",
+            "3. contraceptivos orais"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 266387246,
+        "nome": "Ana Santos",
+        "medicamentos": [
+            "1. carbamazepina",
+            "2. furosemida",
+            "3. digoxina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 188387761,
+        "nome": "Beatriz Pereira",
+        "medicamentos": [
+            "1. imaos",
+            "2. procainamida",
+            "3. griseofulvina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 418616775,
+        "nome": "João Pereira",
+        "medicamentos": [
+            "1. tiroxina",
+            "2. esteróides anabólicos",
+            "3. tiramina (alimentos, etc.)"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 294922197,
+        "nome": "Pedro Martins",
+        "medicamentos": [
+            "1. insulinas",
+            "2. ácido acetilsalicílico",
+            "3. simpaticomiméticos (a. directa)"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 911088510,
+        "nome": "Catarina Silva",
+        "medicamentos": [
+            "1. simpaticomiméticos (a. indirecta)",
+            "2. dicloralfenazona",
+            "3. sulfonilinas (clorpropamida)"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 943764981,
+        "nome": "Carlos Carvalho",
+        "medicamentos": [
+            "1. tiramina (alimentos, etc.)",
+            "2. anticolinérgicos",
+            "3. sulfonilinas (clorpropamida)"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 556659142,
+        "nome": "Catarina Martins",
+        "medicamentos": [
+            "1. bloqueantes neuromusculares",
+            "2. metronidazol",
+            "3. procainamida"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 325463357,
+        "nome": "Catarina Costa",
+        "medicamentos": [
+            "1. naproxeno",
+            "2. haloperidol",
+            "3. analgésicos narcóticos"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 610865929,
+        "nome": "Tiago Pinto",
+        "medicamentos": [
+            "1. benzodiazepinas (diazepam)",
+            "2. rifampicina",
+            "3. haloperidol"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 157036373,
+        "nome": "Diana Teixeira",
+        "medicamentos": [
+            "1. procainamida",
+            "2. antidepressivos tricíclicos",
+            "3. ácido mefenâmico"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 246912550,
+        "nome": "Rui Sousa",
+        "medicamentos": [
+            "1. anticoagulantes orais",
+            "2. colestiramina",
+            "3. ácido ectacrínico"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 226550768,
+        "nome": "Beatriz Ribeiro",
+        "medicamentos": [
+            "1. bloqueadores adrenérgicos beta",
+            "2. meprobamato",
+            "3. piridoxina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 639855390,
+        "nome": "Tiago Pinto",
+        "medicamentos": [
+            "1. meprobamato",
+            "2. ácido acetilsalicílico",
+            "3. tiroxina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 765001994,
+        "nome": "Hugo Teixeira",
+        "medicamentos": [
+            "1. ácido ectacrínico",
+            "2. carbamazepina",
+            "3. piridoxina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 716481891,
+        "nome": "Catarina Marques",
+        "medicamentos": [
+            "1. benzodiazepinas (diazepam)",
+            "2. álcool (bebida)",
+            "3. simpaticomiméticos (a. directa)"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 440180739,
+        "nome": "Leonor Pereira",
+        "medicamentos": [
+            "1. ácido mefenâmico",
+            "2. piridoxina",
+            "3. analgésicos narcóticos"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 213837410,
+        "nome": "Maria Gomes",
+        "medicamentos": [
+            "1. ácido mefenâmico",
+            "2. tiazidas",
+            "3. clonidina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 822031794,
+        "nome": "Pedro Martins",
+        "medicamentos": [
+            "1. cloranfenicol",
+            "2. ácido ectacrínico",
+            "3. clonidina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 303902023,
+        "nome": "Carlos Ferreira",
+        "medicamentos": [
+            "1. procainamida",
+            "2. quinidina",
+            "3. sulfonamidas"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 267312644,
+        "nome": "Diogo Martins",
+        "medicamentos": [
+            "1. clofibrato",
+            "2. bloqueantes neuromusculares",
+            "3. anticoagulantes orais"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 374144708,
+        "nome": "Beatriz Fernandes",
+        "medicamentos": [
+            "1. antiácidos",
+            "2. colestiramina",
+            "3. hidrato de cloral"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 394604013,
+        "nome": "Leonor Rodrigues",
+        "medicamentos": [
+            "1. esteróides anabólicos",
+            "2. antiácidos",
+            "3. anti-histamínicos"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 313990673,
+        "nome": "Leonor Pinto",
+        "medicamentos": [
+            "1. clofibrato",
+            "2. simpaticomiméticos (a. directa)",
+            "3. furosemida"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 710942162,
+        "nome": "Maria Almeida",
+        "medicamentos": [
+            "1. tiroxina",
+            "2. fenotiazinas (clorpromazina)",
+            "3. contraceptivos orais"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Sem significado clínico]",
+            "Efeito de 1+3: [Potencialmente grave]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 550815227,
+        "nome": "Hugo Ferreira",
+        "medicamentos": [
+            "1. griseofulvina",
+            "2. tiazidas",
+            "3. anfetaminas"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 214387638,
+        "nome": "Miguel Marques",
+        "medicamentos": [
+            "1. contraceptivos orais",
+            "2. meprobamato",
+            "3. ácido ectacrínico"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 281198388,
+        "nome": "Ana Fernandes",
+        "medicamentos": [
+            "1. anticoagulantes orais",
+            "2. ácido acetilsalicílico",
+            "3. fenfluramina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 514240354,
+        "nome": "Nuno Ribeiro",
+        "medicamentos": [
+            "1. guanetidina",
+            "2. anti-histamínicos",
+            "3. procainamida"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 209364539,
+        "nome": "Beatriz Ribeiro",
+        "medicamentos": [
+            "1. rifampicina",
+            "2. fenilbutazona",
+            "3. colestiramina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 713279144,
+        "nome": "Rui Teixeira",
+        "medicamentos": [
+            "1. sulfimpirazona",
+            "2. corticosteróides",
+            "3. clonidina"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 622932919,
+        "nome": "Catarina Gomes",
+        "medicamentos": [
+            "1. rifampicina",
+            "2. tiroxina",
+            "3. ácido ectacrínico"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Sem significado clínico]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 337625869,
+        "nome": "Maria Martins",
+        "medicamentos": [
+            "1. imaos",
+            "2. metotrexato",
+            "3. insulinas"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Potencialmente grave]"
+        ]
+    },
+    {
+        "id": 951411720,
+        "nome": "Maria Marques",
+        "medicamentos": [
+            "1. simpaticomiméticos (a. directa)",
+            "2. naproxeno",
+            "3. barbitúricos"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]"
+        ]
+    },
+    {
+        "id": 622822712,
+        "nome": "Beatriz Carvalho",
+        "medicamentos": [
+            "1. metotrexato",
+            "2. contraceptivos orais",
+            "3. naproxeno"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]"
+        ]
+    },
+    {
+        "id": 955403881,
+        "nome": "Marta Pinto",
+        "medicamentos": [
+            "1. digoxina",
+            "2. fenilbutazona",
+            "3. glutetimida"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 1+3: [Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    },
+    {
+        "id": 878969315,
+        "nome": "Carlos Oliveira",
+        "medicamentos": [
+            "1. ácido mefenâmico",
+            "2. antibióticos (largo espectro)",
+            "3. anticoagulantes orais"
+        ],
+        "interacoes": [
+            "Efeito de 1+2: [Potencialmente grave]",
+            "Efeito de 1+3: [Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal]",
+            "Efeito de 2+3: [Sem significado clínico]"
+        ]
+    }
+]
