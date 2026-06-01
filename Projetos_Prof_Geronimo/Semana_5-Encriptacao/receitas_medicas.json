@@ -1,0 +1,282 @@
+[
+    {
+        "ID": 485517741,
+        "nome": "Joana Jesus",
+        "medicamentos_receitados": [
+            "Dicloralfenazona",
+            "Insulinas",
+            "Corticosteróides"
+        ],
+        "interacoes_detetadas": [
+            "Dicloralfenazona cruzado com Insulinas -> Efeito 2: Potencialmente grave",
+            "Dicloralfenazona cruzado com Corticosteróides -> Efeito 5: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal",
+            "Insulinas cruzado com Corticosteróides -> Efeito 3: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal"
+        ]
+    },
+    {
+        "ID": 210269060,
+        "nome": "Miguel Costa",
+        "medicamentos_receitados": [
+            "Esteróides Anabólicos",
+            "Digoxina",
+            "Glutetimida"
+        ],
+        "interacoes_detetadas": [
+            "Esteróides Anabólicos cruzado com Digoxina -> Efeito 6: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Esteróides Anabólicos cruzado com Glutetimida -> Efeito 1: Sem significado clínico",
+            "Digoxina cruzado com Glutetimida -> Efeito 6: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical"
+        ]
+    },
+    {
+        "ID": 923536824,
+        "nome": "Ana Teixeira",
+        "medicamentos_receitados": [
+            "Furosemida",
+            "Fenitoína",
+            "Tetraciclinas"
+        ],
+        "interacoes_detetadas": [
+            "Furosemida cruzado com Fenitoína -> Efeito 2: Potencialmente grave",
+            "Furosemida cruzado com Tetraciclinas -> Efeito 3: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal",
+            "Fenitoína cruzado com Tetraciclinas -> Efeito 6: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical"
+        ]
+    },
+    {
+        "ID": 840124885,
+        "nome": "Marta Ribeiro",
+        "medicamentos_receitados": [
+            "Anti-histamínicos",
+            "Metildopa",
+            "Griseofulvina"
+        ],
+        "interacoes_detetadas": [
+            "Anti-histamínicos cruzado com Metildopa -> Efeito 4: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Anti-histamínicos cruzado com Griseofulvina -> Efeito 2: Potencialmente grave",
+            "Metildopa cruzado com Griseofulvina -> Efeito 1: Sem significado clínico"
+        ]
+    },
+    {
+        "ID": 918998242,
+        "nome": "Diogo Rodrigues",
+        "medicamentos_receitados": [
+            "Ácido Acetilsalicílico",
+            "Digoxina",
+            "Clofibrato"
+        ],
+        "interacoes_detetadas": [
+            "Ácido Acetilsalicílico cruzado com Digoxina -> Efeito 1: Sem significado clínico",
+            "Ácido Acetilsalicílico cruzado com Clofibrato -> Efeito 1: Sem significado clínico",
+            "Digoxina cruzado com Clofibrato -> Efeito 2: Potencialmente grave"
+        ]
+    },
+    {
+        "ID": 323225068,
+        "nome": "Pedro Silva",
+        "medicamentos_receitados": [
+            "Corticosteróides",
+            "Tiramina (Alimentos, Etc.)",
+            "Carbamazepina"
+        ],
+        "interacoes_detetadas": [
+            "Corticosteróides cruzado com Tiramina (Alimentos, Etc.) -> Efeito 3: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal",
+            "Corticosteróides cruzado com Carbamazepina -> Efeito 4: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Tiramina (Alimentos, Etc.) cruzado com Carbamazepina -> Efeito 6: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical"
+        ]
+    },
+    {
+        "ID": 191964243,
+        "nome": "Rui Jesus",
+        "medicamentos_receitados": [
+            "Analgésicos Narcóticos",
+            "Antibióticos (Largo Espectro)",
+            "Tiramina (Alimentos, Etc.)"
+        ],
+        "interacoes_detetadas": [
+            "Analgésicos Narcóticos cruzado com Antibióticos (Largo Espectro) -> Efeito 2: Potencialmente grave",
+            "Analgésicos Narcóticos cruzado com Tiramina (Alimentos, Etc.) -> Efeito 6: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Antibióticos (Largo Espectro) cruzado com Tiramina (Alimentos, Etc.) -> Efeito 2: Potencialmente grave"
+        ]
+    },
+    {
+        "ID": 884063771,
+        "nome": "Bruno Ferreira",
+        "medicamentos_receitados": [
+            "Tetraciclinas",
+            "Fenotiazinas (Clorpromazina)",
+            "Antibióticos (Largo Espectro)"
+        ],
+        "interacoes_detetadas": [
+            "Tetraciclinas cruzado com Fenotiazinas (Clorpromazina) -> Efeito 2: Potencialmente grave",
+            "Tetraciclinas cruzado com Antibióticos (Largo Espectro) -> Efeito 4: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Fenotiazinas (Clorpromazina) cruzado com Antibióticos (Largo Espectro) -> Efeito 4: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical"
+        ]
+    },
+    {
+        "ID": 279100419,
+        "nome": "João Ferreira",
+        "medicamentos_receitados": [
+            "Tetraciclinas",
+            "Sulfimpirazona",
+            "Tiramina (Alimentos, Etc.)"
+        ],
+        "interacoes_detetadas": [
+            "Tetraciclinas cruzado com Sulfimpirazona -> Efeito 6: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Tetraciclinas cruzado com Tiramina (Alimentos, Etc.) -> Efeito 6: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Sulfimpirazona cruzado com Tiramina (Alimentos, Etc.) -> Efeito 6: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical"
+        ]
+    },
+    {
+        "ID": 857655668,
+        "nome": "Catarina Carvalho",
+        "medicamentos_receitados": [
+            "Anticoagulantes Orais",
+            "Bloqueadores adrenérgicos beta",
+            "Bloqueantes Neuromusculares"
+        ],
+        "interacoes_detetadas": [
+            "Anticoagulantes Orais cruzado com Bloqueadores adrenérgicos beta -> Efeito 5: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal",
+            "Anticoagulantes Orais cruzado com Bloqueantes Neuromusculares -> Efeito 2: Potencialmente grave",
+            "Bloqueadores adrenérgicos beta cruzado com Bloqueantes Neuromusculares -> Efeito 5: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal"
+        ]
+    },
+    {
+        "ID": 813994191,
+        "nome": "Joana Gomes",
+        "medicamentos_receitados": [
+            "Rifampicina",
+            "Colestiramina",
+            "Anfetaminas"
+        ],
+        "interacoes_detetadas": [
+            "Rifampicina cruzado com Colestiramina -> Efeito 6: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Rifampicina cruzado com Anfetaminas -> Efeito 4: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Colestiramina cruzado com Anfetaminas -> Efeito 5: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna horizontal"
+        ]
+    },
+    {
+        "ID": 202256914,
+        "nome": "João Marques",
+        "medicamentos_receitados": [
+            "Sulfonamidas",
+            "Isoniazida",
+            "Benzodiazepinas (Diazepam)"
+        ],
+        "interacoes_detetadas": [
+            "Sulfonamidas cruzado com Isoniazida -> Efeito 1: Sem significado clínico",
+            "Sulfonamidas cruzado com Benzodiazepinas (Diazepam) -> Efeito 6: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Isoniazida cruzado com Benzodiazepinas (Diazepam) -> Efeito 2: Potencialmente grave"
+        ]
+    },
+    {
+        "ID": 276291641,
+        "nome": "Diana Silva",
+        "medicamentos_receitados": [
+            "Rifampicina",
+            "Contraceptivos Orais",
+            "Dicloralfenazona"
+        ],
+        "interacoes_detetadas": [
+            "Rifampicina cruzado com Contraceptivos Orais -> Efeito 2: Potencialmente grave",
+            "Rifampicina cruzado com Dicloralfenazona -> Efeito 2: Potencialmente grave",
+            "Contraceptivos Orais cruzado com Dicloralfenazona -> Efeito 2: Potencialmente grave"
+        ]
+    },
+    {
+        "ID": 904057006,
+        "nome": "Diana Martins",
+        "medicamentos_receitados": [
+            "Analgésicos Narcóticos",
+            "Clonidina",
+            "Metotrexato"
+        ],
+        "interacoes_detetadas": [
+            "Analgésicos Narcóticos cruzado com Clonidina -> Efeito 1: Sem significado clínico",
+            "Analgésicos Narcóticos cruzado com Metotrexato -> Efeito 2: Potencialmente grave",
+            "Clonidina cruzado com Metotrexato -> Efeito 4: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical"
+        ]
+    },
+    {
+        "ID": 721601824,
+        "nome": "Hugo Ferreira",
+        "medicamentos_receitados": [
+            "Hidrato de Cloral",
+            "Anticoagulantes Orais",
+            "Ácido Ectacrínico"
+        ],
+        "interacoes_detetadas": [
+            "Hidrato de Cloral cruzado com Anticoagulantes Orais -> Efeito 3: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal",
+            "Hidrato de Cloral cruzado com Ácido Ectacrínico -> Efeito 6: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Anticoagulantes Orais cruzado com Ácido Ectacrínico -> Efeito 2: Potencialmente grave"
+        ]
+    },
+    {
+        "ID": 275545288,
+        "nome": "João Correia",
+        "medicamentos_receitados": [
+            "Clonidina",
+            "Furosemida",
+            "Haloperidol"
+        ],
+        "interacoes_detetadas": [
+            "Clonidina cruzado com Furosemida -> Efeito 3: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal",
+            "Clonidina cruzado com Haloperidol -> Efeito 1: Sem significado clínico",
+            "Furosemida cruzado com Haloperidol -> Efeito 3: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal"
+        ]
+    },
+    {
+        "ID": 936413925,
+        "nome": "Miguel Rodrigues",
+        "medicamentos_receitados": [
+            "Ácido Ectacrínico",
+            "Sulfonilinas (Clorpropamida)",
+            "Griseofulvina"
+        ],
+        "interacoes_detetadas": [
+            "Ácido Ectacrínico cruzado com Sulfonilinas (Clorpropamida) -> Efeito 3: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal",
+            "Ácido Ectacrínico cruzado com Griseofulvina -> Efeito 2: Potencialmente grave",
+            "Sulfonilinas (Clorpropamida) cruzado com Griseofulvina -> Efeito 3: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal"
+        ]
+    },
+    {
+        "ID": 783301965,
+        "nome": "Diana Jesus",
+        "medicamentos_receitados": [
+            "Anticolinérgicos",
+            "Contraceptivos Orais",
+            "Ácido Ectacrínico"
+        ],
+        "interacoes_detetadas": [
+            "Anticolinérgicos cruzado com Contraceptivos Orais -> Efeito 2: Potencialmente grave",
+            "Anticolinérgicos cruzado com Ácido Ectacrínico -> Efeito 4: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Contraceptivos Orais cruzado com Ácido Ectacrínico -> Efeito 3: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna horizontal"
+        ]
+    },
+    {
+        "ID": 823469292,
+        "nome": "Catarina Moreira",
+        "medicamentos_receitados": [
+            "Piridoxina",
+            "Biguanidas (Fenformina)",
+            "Indometacina"
+        ],
+        "interacoes_detetadas": [
+            "Piridoxina cruzado com Biguanidas (Fenformina) -> Efeito 4: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Piridoxina cruzado com Indometacina -> Efeito 2: Potencialmente grave",
+            "Biguanidas (Fenformina) cruzado com Indometacina -> Efeito 6: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical"
+        ]
+    },
+    {
+        "ID": 605593767,
+        "nome": "Carlos Pinto",
+        "medicamentos_receitados": [
+            "Tiramina (Alimentos, Etc.)",
+            "Metotrexato",
+            "Fenotiazinas (Clorpromazina)"
+        ],
+        "interacoes_detetadas": [
+            "Tiramina (Alimentos, Etc.) cruzado com Metotrexato -> Efeito 2: Potencialmente grave",
+            "Tiramina (Alimentos, Etc.) cruzado com Fenotiazinas (Clorpromazina) -> Efeito 4: Potenciador do efeito terapêutico/tóxico dos medicamentos da coluna vertical",
+            "Metotrexato cruzado com Fenotiazinas (Clorpromazina) -> Efeito 6: Diminuidor do efeito terapêutico/tóxico dos medicamentos da coluna vertical"
+        ]
+    }
+]
